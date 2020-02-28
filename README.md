@@ -17,3 +17,6 @@ App/Gerenciador CRUD para controle pessoal de leitura de livros.
 - Consumo localStorage;
 - UI/UX Design.
 
+### Scripts
+
+npm start
